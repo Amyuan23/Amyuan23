@@ -1,7 +1,9 @@
 ### Hi there 👋  , 我是扑棱蛾子
 
-** 社区主页：**
+**社区主页：** 
 - [掘金](https://juejin.cn/user/3386151546928830)
+- [语雀](https://www.yuque.com/amy24)
+- [bilibili](https://space.bilibili.com/13379619)
 
 
 [![Amyuan23's github stats](https://github-readme-stats.vercel.app/api?username=Amyuan23)](https://github.com/anuraghazra/github-readme-stats)
